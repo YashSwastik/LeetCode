@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/YashSwastik/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YashSwastik/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashSwastik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
