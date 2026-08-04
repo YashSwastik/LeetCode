@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/YashSwastik/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashSwastik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashSwastik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3731-find-missing-elements](https://github.com/YashSwastik/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,8 +42,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
+| [3731-find-missing-elements](https://github.com/YashSwastik/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/YashSwastik/LeetCode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
