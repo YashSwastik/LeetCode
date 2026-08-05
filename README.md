@@ -25,6 +25,7 @@
 | [0011-container-with-most-water](https://github.com/YashSwastik/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashSwastik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashSwastik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/YashSwastik/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YashSwastik/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/YashSwastik/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashSwastik/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/YashSwastik/LeetCode/tree/master/3731-find-missing-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/YashSwastik/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
