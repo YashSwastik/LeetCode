@@ -14,6 +14,7 @@
 | [0007-reverse-integer](https://github.com/YashSwastik/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/YashSwastik/LeetCode/tree/master/0189-rotate-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/YashSwastik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YashSwastik/LeetCode/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/YashSwastik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
