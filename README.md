@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/YashSwastik/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YashSwastik/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YashSwastik/LeetCode/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/YashSwastik/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/YashSwastik/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashSwastik/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashSwastik/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/YashSwastik/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/YashSwastik/LeetCode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/YashSwastik/LeetCode/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/YashSwastik/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
