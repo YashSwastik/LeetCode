@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/YashSwastik/LeetCode/tree/master/0020-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashSwastik/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YashSwastik/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YashSwastik/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
