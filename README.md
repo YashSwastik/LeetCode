@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/YashSwastik/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YashSwastik/LeetCode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/YashSwastik/LeetCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashSwastik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YashSwastik/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashSwastik/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashSwastik/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/YashSwastik/LeetCode/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashSwastik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/YashSwastik/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
