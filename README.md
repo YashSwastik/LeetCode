@@ -13,6 +13,7 @@
 | [0002-add-two-numbers](https://github.com/YashSwastik/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YashSwastik/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/YashSwastik/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/YashSwastik/LeetCode/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashSwastik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -28,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/YashSwastik/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashSwastik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YashSwastik/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/YashSwastik/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YashSwastik/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashSwastik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YashSwastik/LeetCode/tree/master/0136-single-number) |
