@@ -15,6 +15,7 @@
 | [0013-roman-to-integer](https://github.com/YashSwastik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/YashSwastik/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/YashSwastik/LeetCode/tree/master/0189-rotate-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/YashSwastik/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashSwastik/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashSwastik/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/YashSwastik/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/YashSwastik/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0989-add-to-array-form-of-integer](https://github.com/YashSwastik/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/YashSwastik/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashSwastik/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashSwastik/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
