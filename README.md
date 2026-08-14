@@ -31,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashSwastik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YashSwastik/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/YashSwastik/LeetCode/tree/master/0031-next-permutation) |
+| [0063-unique-paths-ii](https://github.com/YashSwastik/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/YashSwastik/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YashSwastik/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashSwastik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/YashSwastik/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashSwastik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/YashSwastik/LeetCode/tree/master/0997-find-the-town-judge) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/YashSwastik/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
